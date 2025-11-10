@@ -1,8 +1,8 @@
 # 🎮 Number_guessing_Game
-----------------------------------------------------------------------------
+-------------------------------------------------
 🗣️ This project includes descriptions in two languages: English and Persian (Farsi).
 🌐 توضیحات این پروژه به دو زبان انگلیسی و فارسی ارائه شده است. 
-----------------------------------------------------------------------------
+------------------------------------------------
 ## Description:
 **This project is a simple yet fun Number Guessing Game written in Python.
 The goal of the game is for the player to guess a number randomly chosen by the computer.**
@@ -37,70 +37,49 @@ After finishing the game, a motivational quote is displayed to make the experien
 
 ## 💻 How to Run
 
-Run the program in Python 3.
-
-Enter your desired number range.
-
-Guess the number; the game will guide you if your guess is too high or too low.
-
-When the correct number is guessed, the game shows the number of attempts, elapsed time, and a motivational message.
+- Run the program in Python 3.
+- Enter your desired number range.
+- Guess the number; the game will guide you if your guess is too high or too low.
+- When the correct number is guessed, the game shows the number of attempts, elapsed time, and a motivational message.
 
 ## ⚡ Example
-Enter the first number : 1 
-
-Enter the second number : 100
-
-Enter the your guess number : 50
-
-Your guess is too low
-
-Enter the your guess number, again : 75
-
-Your guess is too high
-
-Enter the your guess number, again : 63
-
-That's great, good job!
-
-Time guess : 35.42 seconds
-
-Every guess is a step closer to success, finish game
-
-Guess count : 3
+- Enter the first number : 1 
+- Enter the second number : 100
+- Enter the your guess number : 50
+- Your guess is too low
+- Enter the your guess number, again : 75
+- Your guess is too high
+- Enter the your guess number, again : 63
+- That's great, good job!
+- Time guess : 35.42 seconds
+- Every guess is a step closer to success, finish game
+- Guess count : 3
 
 ## 📚 Skills Used
 
-Python basics: variables, input/output
-
-Loops (while)
-
-Conditional statements (if-elif-else)
-
-Guess counting
-
-Timer using time
-
-Random number generation with random
-
-Error handling using try-except
+* Python basics: **variables, input/output**
+* Loops **(while)**
+* Conditional statements **(if-elif-else)**
+* Guess counting
+* Timer using **time**
+* Random number generation with **random**
+* Error handling using **try-except**
 
 ## 🚀 Goals and Applications
 
-Practice Python fundamentals for beginners
-
-A simple, shareable project for GitHub
-
-Expandable: color-coded messages, random motivational quotes, attempt limits, difficulty levels, multiplayer mode
+- Practice Python fundamentals for beginners
+- A simple, shareable project for GitHub
+- Expandable: color-coded messages, random motivational quotes, attempt limits, difficulty levels, multiplayer mode
 
 # 🇮🇷 ترجمه فارسی
 
-توضیح کلی:
-این پروژه یک بازی ساده اما جذاب حدس عدد (Number Guessing Game) است که با زبان پایتون نوشته شده است.
+**توضیح کلی:**
+این پروژه یک بازی ساده اما جذاب حدس عدد **(Number Guessing Game)** است که با زبان پایتون نوشته شده است.
 هدف بازی این است که کاربر عددی که به صورت تصادفی توسط کامپیوتر انتخاب شده را حدس بزند.
 
 ## 📝 ویژگی‌ها
 
-تولید عدد تصادفی:
+**تولید عدد تصادفی:**
 
 کاربر یک بازه مشخص وارد می‌کند و برنامه یک عدد تصادفی بین این دو عدد انتخاب می‌کند.
 
@@ -137,28 +116,29 @@ Expandable: color-coded messages, random motivational quotes, attempt limits, di
 وقتی عدد صحیح حدس زده شد، بازی تعداد تلاش‌ها، زمان سپری شده و جمله انگیزشی را نمایش می‌دهد.
 
 ## ⚡ مثال اجرا
-Enter the first number : 1
+   
+* Enter the first number : 1
 
-Enter the second number : 100
+* Enter the second number : 100
 
-Enter the your guess number : 50
+* Enter the your guess number : 50
 
-عدد شما کوچیکه
+* عدد شما کوچیکه
 
-Enter the your guess number, again : 75
+* Enter the your guess number, again : 75
 
-عدد شما بزرگه
+* عدد شما بزرگه
 
-Enter the your guess number, again : 63
+* Enter the your guess number, again : 63
 
-آفرین! درست حدس زدی
+* آفرین! درست حدس زدی
 
-زمان سپری شده: 35.42 ثانیه
+* زمان سپری شده: 35.42 ثانیه
 
-Every guess is a step closer to success, finish game
+* Every guess is a step closer to success, finish game
 
-تعداد تلاش‌ها: 3
-
+* تعداد تلاش‌ها: 3
+       
 ## 📚 مهارت‌های استفاده شده
 
 مفاهیم پایه پایتون: متغیرها، ورودی/خروجی
